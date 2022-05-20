@@ -1,3 +1,3 @@
 # LeetCode
 
-this is problem i solved in leetcode website
+These are problems , I solved in leetcode website
